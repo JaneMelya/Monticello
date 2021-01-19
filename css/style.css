@@ -378,7 +378,7 @@ body {
 }
 
 .news {
-  background-image: url("/img/jpg/news_back.jpg");
+  background-image: url("../img/jpg/news_back.jpg");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
@@ -628,7 +628,7 @@ body {
 
 .gallery-images .globe:before {
   position: absolute;
-  background-image: url(/img/png/360.png);
+  background-image: url(../img/png/360.png);
   background-size: cover;
   content: '';
   width: 80px;
@@ -684,7 +684,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   padding: 60px 60px 40px;
-  background-image: url("/img/png/city_contacts.png");
+  background-image: url("../img/png/city_contacts.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom;
@@ -804,7 +804,7 @@ section {
 
 .footer {
   height: 500px;
-  background-image: url("/img/jpg/footer_back.jpg");
+  background-image: url("../img/jpg/footer_back.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
